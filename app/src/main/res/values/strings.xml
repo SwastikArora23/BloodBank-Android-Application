@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">Blood Bank</string>
+
+     <string name="CommonuUrl">http://192.168.0.6/BloodApp/</string>
+    <string name="home_tag_donor">Blood Donor</string>
+    <string name="home_tag_recipient">Find Blood</string>
+    <string name="user_registration">Registration</string>
+    <string name="donor_login_panel">Donor LogIn Panel..</string>
+    <string name="recipient_login_panel">Recipient LogIn Panel..</string>
+    <string name="reg_warning_modify">Detail cannot be modify so enter carefully</string>
+    <string name="reg_name">Enter Name.. </string>
+    <string name="reg_address">Enter Address..</string>
+    <string name="reg_pincode">Enter pincode..</string>
+    <string name="reg_contact_number">Contact Number..</string>
+    <string name="reg_password">Enter Password..</string>
+    <string name="reg_male">Male</string>
+    <string name="reg_submit">REGISTER</string>
+    <string name="login_donor">LOG IN</string>
+    <string name="login_content_donor">Already have a account  </string>
+    <string name="reg_female">Female</string>
+    <string name="reg_both">BOTH</string>
+    <string name="reg_state">Select State..</string>
+    <string-array name="State">
+        <item>Select State..</item>
+        <item>Andhra Pradesh</item>
+        <item>Arunachal Pradesh</item>
+        <item>Assam</item>
+        <item>Bihar</item>
+        <item>Chhatisgarh</item>
+        <item>Delhi</item>
+        <item>Goa</item>
+        <item>Gujarat</item>
+        <item>Haryana</item>
+        <item>Himachal Pradesh</item>
+        <item>Jammu and Kashmir</item>
+        <item>Jharkhand</item>
+        <item>Karnataka</item>
+        <item>Kerla</item>
+        <item>Madhya Pradesh</item>
+        <item>Maharashtra</item>
+        <item>Manipur</item>
+        <item>Meghalaya</item>
+        <item>Mizoram</item>
+        <item>Odisha</item>
+        <item>Punjab</item>
+        <item>Rajasthan</item>
+        <item>Sikkim</item>
+        <item>Tamil Nadu</item>
+        <item>Telangana</item>
+        <item>Tripura</item>
+        <item>Uttar Pradesh</item>
+        <item>Uttarakhand</item>
+        <item>West Bengal</item>
+    </string-array>
+    <string-array name="bloodtype">
+        <item>Select Blood</item>
+        <item>O+</item>
+        <item>O-</item>
+        <item>A+</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B-</item>
+        <item>AB+</item>
+        <item>AB-</item>
+    </string-array>
+    <string name="aboutus_tx_view">
+        1.The blood you donate gives someone another chance at life. One day that someone may be a close relative, a friend, a loved one—or even you.\n
+
+        2.A life may depend on a gesture from you, a bottle of Blood.\n
+
+        3.To give blood you need neither extra strength nor extra food,and you will save a life.\n
+
+        4.Do you feel you don’t have much to offer? You have the most precious resource of all: the ability to save a life by donating blood! Help share this invaluable gift with someone in need.\n
+
+        5.Blood Donation will cost you nothing but it will save a life!\n
+
+        6.If you’re a blood donor, you’re a hero to someone, somewhere, who received your gracious gift of life.\n
+
+        7.The finest gesture one can make is to save life by donating Blood.\n
+
+        8.Tears of a mother cannot save her Child. But your Blood can.\n
+
+        9.The Blood Donor of today may be recipient of tomorrow.\n
+
+        10.To the young and healthy it’s no loss. To sick it’s hope of life. Donate Blood to give back life.\n
+
+        Here are some more quotes to promote Blood Donation-
+       \n The blood is red gold in time of saving a life.
+       \n Share a little, care a little – Donate Blood.
+        \nFive minutes of your time + 350 ml. of your blood = One life saved.
+        \nBlood is meant to circulate. Pass it around.
+        \nDonation of Blood means a few minutes to you but a lifetime for somebody else.
+
+    </string>
+    <string name="title_activity_about_us">AboutUs</string>
+    <string name="share">Share App</string>
+</resources>
